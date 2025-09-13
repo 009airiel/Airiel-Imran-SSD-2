@@ -1,3 +1,3 @@
 # Team Synergy - Sprinto Hackathon
 - Dev: Prajna Das
-- Note: Practice PR 1
+- Note: Practice PR 2, reviewer check
